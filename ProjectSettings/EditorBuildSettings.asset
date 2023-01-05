@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/HowToUse.unity
+    guid: 3378907671bc1944caa160e6cec3c635
+  - enabled: 1
+    path: Assets/Scenes/SelectPilot.unity
+    guid: d5ec54f9ac4553d43b96091541f826f0
+  - enabled: 1
+    path: Assets/Scenes/KamilleBidan/KamilleBidan.unity
+    guid: 9772026b79b359d408b06cd56612fd27
+  - enabled: 1
+    path: Assets/Scenes/KamilleBidan/SelectGundamKamille.unity
+    guid: a1de21f7bbecfb440a3494d01bc808ae
+  - enabled: 1
+    path: Assets/Scenes/KamilleBidan/ARGundamRX178-MKII.unity
+    guid: d704ea346f970f746b9501a4cfb69768
+  - enabled: 1
+    path: Assets/Scenes/BanagherLinks/BanagherLinks.unity
+    guid: 16048d723a040944993ca84a20be8822
+  - enabled: 1
+    path: Assets/Scenes/BanagherLinks/SelectGundamBanagher.unity
+    guid: b2d4d71413f1fa441b53c05dfbccc4f4
+  - enabled: 1
+    path: Assets/Scenes/BanagherLinks/ARGundamUnicorn.unity
+    guid: a37847ceab6443f4cb34b24e987e9271
+  - enabled: 1
+    path: Assets/Scenes/AmuroRay/AmuroRay.unity
+    guid: 1eb0789cdb1b18d4d94ea8d455cb3a6d
+  - enabled: 1
+    path: Assets/Scenes/AmuroRay/SelectGundamAmuro.unity
+    guid: 1c0bb607c9723ed4386c47fffe0264f3
+  - enabled: 1
+    path: Assets/Scenes/AmuroRay/ARGundamRX78.unity
+    guid: 47309a36a8b67cd44932d02d85a80fe8
+  - enabled: 1
+    path: Assets/Scenes/CharAznable/CharAznable.unity
+    guid: 965a0fb66ad97814ab8ffd1ba0150b31
+  - enabled: 1
+    path: Assets/Scenes/CharAznable/SelectGundamChar.unity
+    guid: 5f0e947abbfca6445aa85f525d161f3a
+  - enabled: 1
+    path: Assets/Scenes/CharAznable/ARGundamSazabi.unity
+    guid: f958e40f8a9f88e43bde0c1d2b866089
+  m_configObjects: {}

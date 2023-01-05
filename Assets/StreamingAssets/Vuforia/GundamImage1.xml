@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Unicorn" size="0.163000 0.289911" />
+    <ImageTarget name="Sazabi" size="0.163000 0.244211" />
+    <ImageTarget name="RX78" size="0.163000 0.228027" />
+    <ImageTarget name="rx-178-aeug" size="0.163000 0.163000" />
+  </Tracking>
+</QCARConfig>
